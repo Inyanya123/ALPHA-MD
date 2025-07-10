@@ -14,7 +14,7 @@
   "env": {
     "PREFIX": {
       "description": "Choose your bot's prefix",
-      "value": ".",
+      "value": "2.",
       "required": true
     },
       "ANTI_DELETE_MESSAGE": {
@@ -45,7 +45,7 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "ALPHA;;;H4sIAAAAAAAAA61V2W7qSBD9lVG/Qi7eF6RI441gDJiAjQOjeWjb7QW80W4bzFX+fWRIlEhzl4w0fmq5q0+dqjp9+jsoyrRGFurA+DuocNpCgvol6SoExkBtoghhMAQhJBCMwWap58cWx9yyMqd7nZlM247njqH6bGJR38ez9RyyJM68J+MRvA5B1fhZGvwCcBvyui0lOnWgpnMzb1k19lo4GI3sA1VTKChUX5+ihBwo7hG89ogwxWkRG1WCcoRhZqFuBVP8NfrmfLrXokypJ+Y2nCH7Ot9dnkPLzyb7rio7VZoXITvpinPufo1+o9mrwJ5Nyqsb+GKqXpta02Y2LtJECtxlYyzV6DovGL0w7/TrNC5QaIaoICnpvtx3c+4lZ1Uy7PNS26qnUZw5+2Tkl067KnaOw3jHfHA8r214jL9InK74nRRfrDN7lKbHSue0lw0k/HrEXvXmTGFzt1WOi8k5iz8TX+F3rRz/S9+fNNm6NB6Jlgu38lqkrIwVPcvVOVEv80weRL5SsqqyZ5/Mr9EPdJGbanlSSdKL4G4dNt+p0Jsruxlycv383BVqnkhyKrDcB31IGvwrlrq28eYbP1ym9GDrZlfb36QZWV8d/jKXr7W0zwZO44yMa1d6azRLTyMeZQ0SyKao5Wg1EbB/9BsP2+pqYx4WBZNZ3eH8eKvoiDozBGP6dQgwitOaYEjSsuj/cewQwLDdoAAjcusumMy3O1O0Gn9k1JMT6ejllC+mqb2E2VRIL1FTvZDoQsWHa/AIhqDCZYDqGoXTtCYl7haormGMajD+6zaovmaM8pKgWRqCMWB4jqZ5lhVFWvqz/nZOIKlhVX0rEAFDEOEyXyAwJrhBQ3A7IGqUwhsyx9OCoBgTVqBoWmBpmdU1RVB5qq8wvyd10hzVBOYVGNMiz9AiwzHy6/D/4SFTnEALlC6IHM9plMjplKLqGkurmsBTPP1bHn8PQYEu5C7jvvksPQRRimviFk2VlTB81/j7JgyCsinIpisCrV8gDMaffiNC0iKu+8qaAuIgSVuk9XWAcQSzGr0OQYjaNEA9Hgj8Jihad+HsrPjENYR7iC5HpZ9gUhb3kJDmZVYS0EPAh/IDB6noQfJ9/4EWRUbyA9kPUAD6dtwdpD/zU0F7q5mq79OTzLNb5VrvZtloSUd5psuLmyjvSkQYhe9d9mFwbCqnPKLiF7iUkyHbMU6Gq9T7dVw6TZg610O7PZWfcO8KB+PvH66tlWGP5yyYF26z90A/rT7Pv9QwZn4giOwWRjMSRQuMwMmSIApyH9lvDEEBezCwcK2poZp/6MZyaW56Om+z6hOFiMA0q8EYaFa754L4yVhZ9nmxeHpSjFjR4n4Y77N9t4z7nby0qVLLa+eABvFEO0C9Xa9MUWWCQkndVjhqhzWd1Kd6kbiPPwABY+DupiLWQwPvXjpmHUXJRV0tjHBtc4KJd9ogkI3thGx3TWkmgbT2jtjcn8QL52+f/TQx3UxLts1+4BlyG/oW+xKQF6g9P/bZ7hr7nGzdjpTYtnczk3mJylIIib5h99tn0yqePLGSD7qzd692G1SOQSlO67GnFZ7qK048c0+WrFitXu7nmGSXwWYtDRbKhRkl8d3MbmaavT1i6ZvP3BUZpej2JrwN47cz/bgc1OvwE8bbK/MTAaqBz8XzletybFuqzyUTi5TT2eewmJ3NbD6olJIKd76FdXMLXvtbX2WQRCXOwRjAIsTlTTG4bPrbaxZR+YtkmkKZylvlGayJ8uEIPzAZWrxHrXBZTWGd9Iq1uGTK9WLvlKraEEjeDQYo/TfxOPD6D1J5ZqWKCQAA",
       "required": true
     },
     "OWNER_NAME": {
